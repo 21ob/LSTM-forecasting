@@ -1,2 +1,2 @@
 # LSTM-forecasting
-Using an LSTM RNN to forecast stock prices
+An exploratory analysis of using LSTM models to predict stock prices / directions
